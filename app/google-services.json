@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "34813582040",
+    "project_id": "tfapp-f47cc",
+    "storage_bucket": "tfapp-f47cc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34813582040:android:89ec523c502c0d212815ad",
+        "android_client_info": {
+          "package_name": "com.example.tfapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlhczzw4dG4-eoE6NFSMAfIG_b7nKuOsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
